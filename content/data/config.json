@@ -18,11 +18,6 @@
                 "style": "link"
             },
             {
-                "label": "Resume",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Work",
                 "url": "/blog",
                 "style": "link"
